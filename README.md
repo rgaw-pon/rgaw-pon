@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
 ![](./header_.png)
 
@@ -32,12 +33,13 @@
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rgaw-pon&hide_border=true&theme=redical)
 
- | .                                                                                                                                                 | .                                                                                       |
- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+ | .                                                                                                                                           | .                                                                                 |
+ | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
  | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=rgaw-pon&show_icons=true&theme=radical&include_all_commits=true) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgaw-pon"></img> |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rgaw-pon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rgaw-pon" height="30" width="40" /></a>
+<i class="fa-solid fa-envelope" href="mailto:r.gawrysponiewierka@gmail.com" target="blank" alt="rgaw-pon" height="30" width="40" /></i>
 </p>
 
