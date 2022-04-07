@@ -1,4 +1,6 @@
-<link rel="stylesheet" href="./font-awesome-4.7.0/css/font-awesome.min.css">
+<head>
+<script src="https://kit.fontawesome.com/91fe5cfdb6.js" crossorigin="anonymous"></script>
+</head>
 
 ![](./header_.png)
 
@@ -38,8 +40,8 @@
  | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=rgaw-pon&show_icons=true&theme=radical&include_all_commits=true) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgaw-pon"></img> |
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rgaw-pon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rgaw-pon" height="30" width="40" /></a>
-<i class="fa-solid fa-envelope" href="mailto:r.gawrysponiewierka@gmail.com" target="blank" alt="rgaw-pon" height="30" width="40" /></i>
+<p style="font-size: 1em; color:black;" align="left">
+<a class="fa-brands fa-linkedin" href="https://www.linkedin.com/in/rgaw-pon/" target="blank"></a>
+<a class="fa-solid fa-envelope" href="mailto:r.gawrysponiewierka@gmail.com" target="blank"/></a>
 </p>
 
