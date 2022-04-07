@@ -43,8 +43,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rgaw-pon/" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin-in.svg" width="30" height="40"></a>
-<a href="mailto:r.gawrysponiewierka@gmail.com" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope.svg" width="30" height="40">
 <a href="https://www.linkedin.com/in/rgaw-pon/" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin-in.svg" alt="rgaw-pon" height="30" width="40" /></a>
 <a href="mailto:r.gawrysponiewierka@gmail.com" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope.svg" alt="rgaw-pon" height="30" width="40" /></a>
 </p>
