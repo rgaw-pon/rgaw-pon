@@ -6,9 +6,9 @@
 <!-- <h1 align="center">
  
 </h1> -->
-<h3 align="center">Boardgame enthusiast, hopelessly terrible video game player and a growing developer from Poland </h3>
+<h3 align="center">Growing developer from Poland </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rgaw-pon&label=Profile%20views&color=0e75b6&style=flat" alt="reformedmrozu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rgaw-pon&label=Profile%20views&color=0e75b6&style=flat" alt="rgaw-pon" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/reformedmrozu" target="blank"><img src="https://img.shields.io/twitter/follow/reformedmrozu?logo=twitter&style=for-the-badge" alt="reformedmrozu" /></a> </p> -->
 
