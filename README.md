@@ -1,7 +1,7 @@
 
 ![](./header_.png)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi there!+;My name is Robert and welcome to my profile :)+;More+than+2+years+of+programming+experience;Looking+forward+to+new+challenges+;CompSci+graduate)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there!+;Welcome+to+my+profile,+my+name+is+Robert;More+than+2+years+of+programming+experience;Looking+forward+to+new+challenges+;CompSci+graduate)](https://git.io/typing-svg)
 
 <!-- <h1 align="center">
  
