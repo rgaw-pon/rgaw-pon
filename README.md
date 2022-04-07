@@ -42,7 +42,7 @@
  | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=rgaw-pon&show_icons=true&theme=radical&include_all_commits=true) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgaw-pon"></img> |
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p style="color:magenta" align="left">
 <a href="https://www.linkedin.com/in/rgaw-pon/" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin-in.svg" alt="rgaw-pon" height="30" width="40" /></a>
 <a href="mailto:r.gawrysponiewierka@gmail.com" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope.svg" alt="rgaw-pon" height="30" width="40" /></a>
 </p>
