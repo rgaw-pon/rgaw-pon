@@ -1,6 +1,8 @@
+<!--
 <head>
 <script src="https://kit.fontawesome.com/91fe5cfdb6.js" crossorigin="anonymous"></script>
 </head>
+-->
 
 ![](./header_.png)
 
@@ -40,8 +42,10 @@
  | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=rgaw-pon&show_icons=true&theme=radical&include_all_commits=true) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgaw-pon"></img> |
 
 <h3 align="left">Connect with me:</h3>
-<p style="font-size: 1em; color:black;" align="left">
-<a class="fa-brands fa-linkedin" href="https://www.linkedin.com/in/rgaw-pon/" target="blank"></a>
-<a class="fa-solid fa-envelope" href="mailto:r.gawrysponiewierka@gmail.com" target="blank"/></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/rgaw-pon/" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin-in.svg" width="30" height="40"></a>
+<a href="mailto:r.gawrysponiewierka@gmail.com" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope.svg" width="30" height="40">
+<a href="https://www.linkedin.com/in/rgaw-pon/" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin-in.svg" alt="rgaw-pon" height="30" width="40" /></a>
+<a href="mailto:r.gawrysponiewierka@gmail.com" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope.svg" alt="rgaw-pon" height="30" width="40" /></a>
 </p>
 
